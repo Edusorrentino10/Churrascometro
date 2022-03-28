@@ -7,6 +7,9 @@
 ## Execução do projeto:
 Para rodar o projeto é necessário clonar o repositório e abrir o arquivo index.html no navegador.
 
+## Link para visualização:
+Se preferir, é possível visualizar pelo link: https://edusorrentino10.github.io/Churrascometro/
+
 <h2 align="center"><img  src="./churras-print.png"></h2>
 <h2 align="center"><img src="./churras-calc-print.png"></h2>
 
