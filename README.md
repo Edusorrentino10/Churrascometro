@@ -7,7 +7,8 @@
 ## Execução do projeto:
 Para rodar o projeto é necessário clonar o repositório e abrir o arquivo index.html no navegador.
 
-<h2 align="center"><img src="./churras-print.png"></h2>
+<h2 align="center"><img  src="./churras-print.png"></h2>
+<h2 align="center"><img src="./churras-calc-print.png"></h2>
 
 Feito por <a href="https://github.com/Edusorrentino10">Eduardo Sorrentino</a>.
 
